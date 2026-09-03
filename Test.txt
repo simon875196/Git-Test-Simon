@@ -1,3 +1,4 @@
 Meine erste Änderung auf dem Feature-Branch.
 Meine Zweite Änderung
-Änderung für git fetch
+Änderung von Branch A
+
