@@ -2,3 +2,4 @@ Meine erste Änderung auf dem Feature-Branch.
 Meine Zweite Änderung
 Änderung für git fetch
 Änderung für mein GitHub Issue
+Änderung im geklonten Repository
