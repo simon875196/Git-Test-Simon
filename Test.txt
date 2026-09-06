@@ -4,3 +4,4 @@ Meine erste Änderung auf dem Feature-Branch.
 Meine Zweite Änderung
 Änderung von Branch A
 
+Neue Funktion
