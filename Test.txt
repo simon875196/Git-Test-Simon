@@ -5,3 +5,6 @@ Meine Zweite Ã„nderung
 Ã„nderung von Branch A
 
 Neue Funktion
+Änderung für Rebase
+Unfertige Änderung für Stash
+
