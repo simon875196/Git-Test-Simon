@@ -1,10 +1,13 @@
 Meine erste Ã„nderung auf dem Feature-Branch.
 Ã„nderung von Branch B
 Ã„nderung fÃ¼r git fetch
-Meine Zweite Ã„nderung
-Ã„nderung von Branch A
+Meine Zweite Änderung
+Änderung von Branch A
 
 Neue Funktion
 Änderung für Rebase
 Unfertige Änderung für Stash
+
+Änderung für mein GitHub Issue
+Änderung im geklonten Repository
 
