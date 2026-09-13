@@ -11,3 +11,4 @@ Unfertige Änderung für Stash
 Änderung für mein GitHub Issue
 Änderung im geklonten Repository
 
+Commit für Cherry-pick
