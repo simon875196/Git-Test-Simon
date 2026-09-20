@@ -12,3 +12,4 @@ Unfertige Änderung für Stash
 Änderung im geklonten Repository
 
 Commit für Cherry-pick
+Team-Workflow Test
